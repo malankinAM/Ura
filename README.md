@@ -7,6 +7,6 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp -->
 </div>
  
- <img src="./Frame 1 (8).png" title="css" alt="css" width="400" height="200"/>
+ <img src="./img/Frame 1 (8).png" title="css" alt="css" width="400" height="200"/>
 
 ## Click ('https://malankinam.github.io/Ura/')
