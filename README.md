@@ -9,4 +9,4 @@
  
  <img src="./Frame 1 (8).png" title="css" alt="css" width="400" height="200"/>
 
-## Click ('https://malankinam.github.io/-Ticker/')
+## Click ('https://malankinam.github.io/Ura/')
