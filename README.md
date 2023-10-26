@@ -7,6 +7,6 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp -->
 </div>
  
- <img src="./screencapture-127-0-0-1-5502-index-html-2023-10-23-18_57_58.png" title="css" alt="css" width="400" height="200"/>
+ <img src="./Frame 1 (8).png" title="css" alt="css" width="400" height="200"/>
 
 ## Click ('https://malankinam.github.io/-Ticker/')
